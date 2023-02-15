@@ -2,4 +2,4 @@
 Description=Wdb server
 
 [Service]
-ExecStart=/usr/bin/wdb.server.py
+ExecStart=/usr/local/bin/wdb.server.py
